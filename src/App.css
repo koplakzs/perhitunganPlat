@@ -1,0 +1,27 @@
+.logo img{
+  width: 90%;
+}
+.navigasi{
+  text-decoration: none;
+  color: #ffffff;
+}
+.my-intro  h3{
+  font-weight: bold;
+}
+.red-text{
+  color: #ff0000
+}
+.card {
+  width: 20%;
+  margin: 20px;
+}
+.plat {
+  text-decoration: none;
+}
+
+.navigasi:hover {
+  color: #cecccc;
+}
+.platImage {
+  width: 150px;
+}
